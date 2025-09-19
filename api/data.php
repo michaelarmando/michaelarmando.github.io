@@ -25,7 +25,7 @@ I actively engage in real-world projects and volunteer programs to sharpen my co
 
 // Daftar Skills
 $skills = [
-    'IS Analysis & Design', 'UI/UX', 'Data Analysis', 'Business Analysis', 'PHP', 'MySQL', 'HTML', 'CSS', 'Figma'
+    'IS Analysis & Design', 'UI/UX', 'MySQL', 'Business Analysis', 'java', 'Canva', 'Figma', 'Phyton', 'Ms.Word', 'Ms.Excel', 'Ms.PowerPoint'
 ];
 
 // Daftar proyek portofolio
@@ -41,7 +41,7 @@ $portfolioItems = [
         'title' => 'Aplikasi Sewa Alat Berat',
         'category' => 'project',
         'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_1f6c11e925/2025-09-19_6b553724da.png',
-        'description' => 'Aplikasi sederhana untuk manajemen penyewaan alat berat yang efisien dan terintegrasi.',
+        'description' => 'Membuat aplikasi sederhana untuk manajemen penyewaan alat berat yang efisien dan terintegrasi.',
         'link' => 'https://www.figma.com/design/t3CNdPImrR6VpNo4JAhu6w/-2--ToolHub-Group-4-BD80?node-id=0-1&t=OnlmSoi4SiZW9Slu-1'
     ],
     [
@@ -114,10 +114,10 @@ $portfolioItems = [
         'description' => 'As a volunteer educator at SDN Malaka Jaya 11, I supported Sustainable Development Goal No. 4 (Quality Education) by teaching anti-corruption awareness to elementary school students.',
         'link' => '' 
     ],
-        [
+    [
         'title' => 'Membangun Kesadaran Lingkungan: Upaya Pelestarian Alam untuk Generasi Mendatang',
         'category' => 'activity',
-        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_15aed8e343/2025-09-19_e6f7ce45e3.jpg',
+        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_4bb2a83f09/2025-09-19_7daaefed06.png',
         'description' => 'This Character Building project was a valuable experience that enhanced my key skills: social awareness through community engagement, effective team collaboration in designing and executing a proposal, and adaptability when facing limited time and resources.',
         'link' => '' 
     ],
