@@ -117,7 +117,7 @@ $portfolioItems = [
         [
         'title' => 'Membangun Kesadaran Lingkungan: Upaya Pelestarian Alam untuk Generasi Mendatang',
         'category' => 'activity',
-        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_15aed8e343/2025-09-19_e6f7ce45e3.jpg' 'https://cdn.momoi.cc/uploads/2025-09-19_15aed8e343/2025-09-19_291e2d6557.jpg''https://cdn.momoi.cc/uploads/2025-09-19_15aed8e343/2025-09-19_ffb027f0fa.jpg' 'https://cdn.momoi.cc/uploads/2025-09-19_15aed8e343/2025-09-19_3edfa2c2b4.jpg',
+        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_15aed8e343/2025-09-19_e6f7ce45e3.jpg',
         'description' => 'This Character Building project was a valuable experience that enhanced my key skills: social awareness through community engagement, effective team collaboration in designing and executing a proposal, and adaptability when facing limited time and resources.',
         'link' => '' 
     ],
