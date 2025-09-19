@@ -34,7 +34,7 @@ $portfolioItems = [
         'category' => 'project',
         'image' => 'https://via.placeholder.com/400x250/112240/64ffda?text=KingsHCut',
         'description' => 'Aplikasi web berbasis PHP dan MySQL untuk mengelola stok, penjualan, dan laporan keuangan barbershop.',
-        'link' => '#'
+        'link' => ''
     ],
     [
         'title' => 'Aplikasi Sewa Alat Berat',
@@ -44,15 +44,15 @@ $portfolioItems = [
         'link' => '#'
     ],
     [
-        'title' => 'SMAK Penabur Harapan Indah',
-        'category' => 'education',
+        'title' => 'ENGLISH INDEPENDENT USER',
+        'category' => 'certificate',
         'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_6895c42635/2025-09-19_47b7703c4d.jpg',
         'description' => 'Lulus dari jurusan IPA di SMAK Penabur Harapan Indah.',
         'link' => '#'
     ],
     [
-        'title' => 'BINUS University',
-        'category' => 'education',
+        'title' => 'ADVANCED ENGLISH',
+        'category' => 'certificate',
         'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_c25637be7c/2025-09-19_06fe33cf1a.jpg',
         'description' => 'Saat ini menempuh pendidikan S1 di jurusan Business Information Technology.',
         'link' => '#'
@@ -64,14 +64,7 @@ $portfolioItems = [
         'description' => 'Deskripsi singkat mengenai sertifikat yang diperoleh.',
         'link' => '#'
     ],
-    // Anda bisa menambahkan item untuk kategori 'activity' di sini
-    // [
-    //     'title' => 'Nama Kegiatan',
-    //     'category' => 'activity',
-    //     'image' => 'URL_GAMBAR_KEGIATAN',
-    //     'description' => 'Deskripsi singkat mengenai kegiatan atau organisasi.',
-    //     'link' => '#'
-    // ],
+   
 ];
 
 ?>

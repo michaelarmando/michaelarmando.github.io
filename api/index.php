@@ -64,7 +64,12 @@ require_once 'data.php';
                         <div class="item-info">
                             <h3><?php echo htmlspecialchars($item['title']); ?></h3>
                             <p><?php echo htmlspecialchars($item['description']); ?></p>
-                            <a href="<?php echo htmlspecialchars($item['link']); ?>" target="_blank">View Details</a>
+    
+                            <?php if (!empty($item['link']) && $item['link'] !== '#'): ?>
+                                <a href="<?php echo htmlspecialchars($item['link']); ?>" target="_blank">View Details</a>
+                            <?php else: ?>
+                                <span class="disabled-link">Link not available</span>
+                            <?php endif; ?>
                         </div>
                     </div>
                     <?php endforeach; ?>
