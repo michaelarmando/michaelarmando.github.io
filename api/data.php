@@ -107,6 +107,20 @@ $portfolioItems = [
         'description' => 'ENGLISH INDEPENDENT USER (CEFR B) Beelingua.',
         'link' => '' 
     ],
+    [
+        'title' => 'Student Volunteer Character Building Project',
+        'category' => 'activity',
+        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_82fe966d0a/2025-09-19_18fb82cf27.jpeg',
+        'description' => 'As a volunteer educator at SDN Malaka Jaya 11, I supported Sustainable Development Goal No. 4 (Quality Education) by teaching anti-corruption awareness to elementary school students.',
+        'link' => '' 
+    ],
+        [
+        'title' => 'Membangun Kesadaran Lingkungan: Upaya Pelestarian Alam untuk Generasi Mendatang',
+        'category' => 'activity',
+        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_15aed8e343/2025-09-19_e6f7ce45e3.jpg' 'https://cdn.momoi.cc/uploads/2025-09-19_15aed8e343/2025-09-19_291e2d6557.jpg''https://cdn.momoi.cc/uploads/2025-09-19_15aed8e343/2025-09-19_ffb027f0fa.jpg' 'https://cdn.momoi.cc/uploads/2025-09-19_15aed8e343/2025-09-19_3edfa2c2b4.jpg',
+        'description' => 'This Character Building project was a valuable experience that enhanced my key skills: social awareness through community engagement, effective team collaboration in designing and executing a proposal, and adaptability when facing limited time and resources.',
+        'link' => '' 
+    ],
 ];
 
 ?>
