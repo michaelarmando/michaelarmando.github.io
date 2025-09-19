@@ -36,6 +36,12 @@ require_once 'data.php';
             <section id="about">
                 <h2>About Me</h2>
                 <p><?php echo htmlspecialchars($personalInfo['about']); ?></p>
+                
+                <?php if (!empty($personalInfo['cv_url'])): ?>
+                    <a href="<?php echo htmlspecialchars($personalInfo['cv_url']); ?>" class="cv-download-btn" download>
+                        <i class="bi bi-download"></i> Download CV
+                    </a>
+                <?php endif; ?>
             </section>
             
             <section id="skills">
@@ -64,7 +70,7 @@ require_once 'data.php';
                         <div class="item-info">
                             <h3><?php echo htmlspecialchars($item['title']); ?></h3>
                             <p><?php echo htmlspecialchars($item['description']); ?></p>
-    
+                            
                             <?php if (!empty($item['link']) && $item['link'] !== '#'): ?>
                                 <a href="<?php echo htmlspecialchars($item['link']); ?>" target="_blank">View Details</a>
                             <?php else: ?>
@@ -86,7 +92,7 @@ require_once 'data.php';
         </main>
 
         <footer>
-            <p>&copy; <?php echo date('Y'); ?> <?php echo htmlspecialchars($siteConfig['author']); ?>.</p>
+            <p>&copy; <?php echo date('Y'); ?> <?php echo htmlspecialchars($siteConfig['author']); ?>. Dibuat dengan ❤️</p>
         </footer>
     </div>
 

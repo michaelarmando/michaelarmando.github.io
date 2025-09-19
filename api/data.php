@@ -15,10 +15,11 @@ $personalInfo = [
 
 I actively engage in real-world projects and volunteer programs to sharpen my collaboration, adaptability, and problem-solving skills. Passionate about connecting technology and business, I aim to deliver impactful IT solutions and grow as a technology-driven problem solver.',
     'email' => 'michaelaemandop@gmail.com',
-    'social_links' => [ // Link sosial media untuk ikon di bawah nama
+    'cv_url' => 'CV-Michael-Armando-Putra.pdf', // Nama file CV Anda
+    'social_links' => [ 
         'github' => 'https://github.com/michaelarmando',
         'linkedin' => 'https://linkedin.com/in/michael-armando-putra',
-        'instagram' => 'https://www.instagram.com/michaelarmandoo' // Contoh jika ingin menambahkan Instagram
+        'instagram' => 'https://www.instagram.com/michaelarmandop'
     ]
 ];
 
@@ -34,25 +35,25 @@ $portfolioItems = [
         'category' => 'project',
         'image' => 'https://via.placeholder.com/400x250/112240/64ffda?text=KingsHCut',
         'description' => 'Aplikasi web berbasis PHP dan MySQL untuk mengelola stok, penjualan, dan laporan keuangan barbershop.',
-        'link' => ''
+        'link' => '#'
     ],
     [
         'title' => 'Aplikasi Sewa Alat Berat',
         'category' => 'project',
         'image' => 'https://via.placeholder.com/400x250/112240/64ffda?text=Sewa+Alat',
         'description' => 'Aplikasi untuk manajemen penyewaan alat berat yang efisien dan terintegrasi.',
-        'link' => 'https://www.figma.com/design/t3CNdPImrR6VpNo4JAhu6w/-2--ToolHub-Group-4-BD80?node-id=0-1&t=OnlmSoi4SiZW9Slu-1'
+        'link' => '#'
     ],
     [
-        'title' => 'ENGLISH INDEPENDENT USER',
-        'category' => 'certificate',
+        'title' => 'SMAK Penabur Harapan Indah',
+        'category' => 'education',
         'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_6895c42635/2025-09-19_47b7703c4d.jpg',
         'description' => 'Lulus dari jurusan IPA di SMAK Penabur Harapan Indah.',
         'link' => '#'
     ],
     [
-        'title' => 'ADVANCED ENGLISH',
-        'category' => 'certificate',
+        'title' => 'BINUS University',
+        'category' => 'education',
         'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_c25637be7c/2025-09-19_06fe33cf1a.jpg',
         'description' => 'Saat ini menempuh pendidikan S1 di jurusan Business Information Technology.',
         'link' => '#'
@@ -62,9 +63,8 @@ $portfolioItems = [
         'category' => 'certificate',
         'image' => 'https://via.placeholder.com/400x250/112240/64ffda?text=Sertifikat',
         'description' => 'Deskripsi singkat mengenai sertifikat yang diperoleh.',
-        'link' => '#'
+        'link' => '#' // Kosongkan jika tidak ada link
     ],
-   
 ];
 
 ?>
