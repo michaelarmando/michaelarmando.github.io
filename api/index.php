@@ -66,6 +66,6 @@ require_once 'data.php';
         </footer>
     </div>
 
-    <script src="script.js"></script>
+    <script src="/script.js"></script>
 </body>
 </html>
