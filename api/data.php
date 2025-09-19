@@ -25,7 +25,7 @@ I actively engage in real-world projects and volunteer programs to sharpen my co
 
 // Daftar Skills
 $skills = [
-    'IS Analysis & Design', 'UI/UX', 'MySQL', 'Business Analysis', 'java', 'Canva', 'Figma', 'Phyton', 'Ms.Word', 'Ms.Excel', 'Ms.PowerPoint'
+    'IS Analysis & Design', 'UI/UX', 'Business Analysis', 'MySQL', 'java', 'Canva', 'Figma', 'Phyton', 'Ms.Word', 'Ms.Excel', 'Ms.PowerPoint'
 ];
 
 // Daftar proyek portofolio
@@ -119,6 +119,13 @@ $portfolioItems = [
         'category' => 'activity',
         'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_4bb2a83f09/2025-09-19_7daaefed06.png',
         'description' => 'This Character Building project was a valuable experience that enhanced my key skills: social awareness through community engagement, effective team collaboration in designing and executing a proposal, and adaptability when facing limited time and resources.',
+        'link' => '' 
+    ],
+    [
+        'title' => 'Inovasi dan Infrastruktur Kota Bekasi Dalam Sarana dan Prasarana Transportasi',
+        'category' => 'activity',
+        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_30ba597081/2025-09-19_b0c90c576e.jpg',
+        'description' => 'This Character Building project was a meaningful experience that enhanced my key skills: social awareness through direct interaction with local communities, collaboration in preparing proposals, reports, and field practices with my team, and adaptability in managing tasks from observation to final presentation.',
         'link' => '' 
     ],
 ];
