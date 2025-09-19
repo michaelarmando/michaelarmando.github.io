@@ -32,6 +32,7 @@ require_once 'data.php';
                     <button class="filter-btn" data-filter="web">Web</button>
                     <button class="filter-btn" data-filter="mobile">Mobile</button>
                     <button class="filter-btn" data-filter="desain">Desain</button>
+                    <button class="filter-btn" data-filter="education">Education</button>
                 </div>
 
                 <div class="portfolio-grid">
