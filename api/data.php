@@ -2,7 +2,7 @@
 
 // Konfigurasi dasar website
 $siteConfig = [
-    'title' => 'Portofolio Saya',
+    'title' => 'Portofolio Michael Armando',
     'author' => 'Michael Armando',
 ];
 
@@ -63,7 +63,7 @@ $portfolioItems = [
         'category' => 'certificate',
         'image' => 'https://via.placeholder.com/400x250/112240/64ffda?text=Sertifikat',
         'description' => 'Deskripsi singkat mengenai sertifikat yang diperoleh.',
-        'link' => '#' // Kosongkan jika tidak ada link
+        'link' => '' // Kosongkan jika tidak ada link
     ],
 ];
 
