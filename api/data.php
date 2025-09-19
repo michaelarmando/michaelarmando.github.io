@@ -3,33 +3,42 @@
 // Konfigurasi dasar website
 $siteConfig = [
     'title' => 'Portofolio Saya',
-    'author' => 'Nama Anda',
+    'author' => 'Michael Armando',
 ];
 
 // Informasi personal
 $personalInfo = [
-    'name' => 'Nama Lengkap Anda',
-    'profile_picture' => 'https://via.placeholder.com/150/64ffda/0a192f?text=Foto', // Ganti dengan URL foto Anda
-    'tagline' => 'Web Developer | UI/UX Enthusiast | Tech Lover',
-    'about' => 'Saya adalah seorang pengembang web dengan hasrat untuk menciptakan aplikasi web yang bersih, fungsional, dan modern. Saya memiliki pengalaman dalam tumpukan teknologi frontend dan backend, serta selalu bersemangat untuk mempelajari hal-hal baru.',
-    'email' => 'email.anda@example.com',
-    'github' => 'https://github.com/username-anda',
-    'linkedin' => 'https://linkedin.com/in/username-anda',
+    'name' => 'Michael Armando Putra',
+    'profile_picture' => '/image/pp.png', // Ganti dengan URL foto Anda
+    'tagline' => '',
+    'about' => 'Hi, I’m Michael Armando Putra, a fifth-semester Business Information Technology student at Bina Nusantara University. I am developing my career in technology and business strategy with experience in IS analysis and design, UI/UX, and data & business analysis.
+
+I actively engage in real-world projects and volunteer programs to sharpen my collaboration, adaptability, and problem-solving skills. Passionate about connecting technology and business, I aim to deliver impactful IT solutions and grow as a technology-driven problem solver.',
+    'email' => 'michaelaemandop@gmail.com',
+    'github' => 'https://github.com/michaelarmando',
+    'linkedin' => 'https://linkedin.com/in/michaelarmando',
 ];
 
 // Daftar proyek portofolio
-// Kategori bisa berupa 'web', 'mobile', 'desain', dll.
+// Kategori bisa berupa 'project', 'education', 'desain', dll.
 $portfolioItems = [
     [
-        'title' => 'Sistem Manajemen Toko',
-        'category' => 'web',
+        'title' => 'Management KingsHCut',
+        'category' => 'project',
         'image' => 'https://via.placeholder.com/400x250/112240/64ffda?text=Proyek+Web',
         'description' => 'Aplikasi web berbasis PHP dan MySQL untuk mengelola stok, penjualan, dan laporan keuangan toko.',
         'link' => '#'
     ],
     [
-        'title' => 'Desain Landing Page',
-        'category' => 'desain',
+        'title' => 'Aplikasi Sewa Alat Berat',
+        'category' => 'project',
+        'image' => 'https://via.placeholder.com/400x250/112240/64ffda?text=Proyek+Web',
+        'description' => 'Aplikasi web berbasis PHP dan MySQL untuk mengelola stok, penjualan, dan laporan keuangan toko.',
+        'link' => '#'
+    ],
+    [
+        'title' => 'BINUS University',
+        'category' => 'education',
         'image' => 'https://via.placeholder.com/400x250/112240/64ffda?text=Proyek+Desain',
         'description' => 'Desain antarmuka pengguna (UI) untuk halaman promosi produk teknologi menggunakan Figma.',
         'link' => '#'

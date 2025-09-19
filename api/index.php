@@ -49,8 +49,8 @@ require_once 'data.php';
             </section>
 
             <section id="contact">
-                <h2>Hubungi Saya</h2>
-                <p>Tertarik untuk bekerja sama? Kirimkan saya email atau hubungi melalui sosial media.</p>
+                <h2>My Contact</h2>
+                <p>I'm currently open to new opportunities and collaborations. Feel free to send me an email!.</p>
                 <div class="contact-links">
                     <a href="mailto:<?php echo htmlspecialchars($personalInfo['email']); ?>" class="contact-button">Email</a>
                     <a href="<?php echo htmlspecialchars($personalInfo['github']); ?>" target="_blank" class="contact-button">GitHub</a>
