@@ -81,7 +81,7 @@ require_once 'data.php';
         </main>
 
         <footer>
-            <p>&copy; <?php echo date('Y'); ?> <?php echo htmlspecialchars($siteConfig['author']); ?>. Dibuat dengan ❤️</p>
+            <p>&copy; <?php echo date('Y'); ?> <?php echo htmlspecialchars($siteConfig['author']); ?>.</p>
         </footer>
     </div>
 
