@@ -13,6 +13,30 @@ require_once 'data.php';
 </head>
 <body>
 
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#" class="nav-brand"><?php echo htmlspecialchars($personalInfo['name']); ?></a>
+
+            <div class="desktop-nav">
+                <a href="#about">About Me</a>
+                <a href="#skills">Skills</a>
+                <a href="#portfolio">Portfolio</a>
+                <a href="#contact">Contact</a>
+            </div>
+
+            <button class="burger-menu" id="burger-menu" aria-label="Buka menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </div>
+    </nav>
+
+    <div class="mobile-nav" id="mobile-nav">
+        <a href="#about" class="mobile-link">About Me</a>
+        <a href="#skills" class="mobile-link">Skills</a>
+        <a href="#portfolio" class="mobile-link">Portfolio</a>
+        <a href="#contact" class="mobile-link">Contact</a>
+    </div>
+
     <div class="container">
         <header id="hero">
             <img src="<?php echo htmlspecialchars($personalInfo['profile_picture']); ?>" alt="Foto Profil <?php echo htmlspecialchars($personalInfo['name']); ?>" class="profile-picture">
