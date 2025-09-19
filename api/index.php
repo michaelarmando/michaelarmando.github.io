@@ -8,15 +8,13 @@ require_once 'data.php';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($siteConfig['author']); ?> | Portofolio</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/style.css">
 </head>
 <body>
 
     <div class="container">
         <header id="hero">
+            <img src="<?php echo htmlspecialchars($personalInfo['profile_picture']); ?>" alt="Foto Profil <?php echo htmlspecialchars($personalInfo['name']); ?>" class="profile-picture">
             <h1><?php echo htmlspecialchars($personalInfo['name']); ?></h1>
             <p class="tagline"><?php echo htmlspecialchars($personalInfo['tagline']); ?></p>
         </header>
