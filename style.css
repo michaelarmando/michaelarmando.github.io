@@ -90,6 +90,49 @@ section {
     font-weight: 400;
 }
 
+/* Ikon Sosial Media */
+.social-icons {
+    margin-top: 1.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.social-icons a {
+    color: var(--text-color); /* Mengubah warna ikon menjadi putih */
+    font-size: 2rem;          /* Memperbesar ukuran ikon */
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: var(--accent-color);
+    transform: translateY(-3px);
+}
+
+/* Seksi Skills */
+.skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.skill-item {
+    background-color: var(--primary-color);
+    color: var(--text-secondary-color);
+    padding: 0.5rem 1.2rem;
+    border-radius: 6px;
+    border: 1px solid var(--secondary-color);
+    font-family: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace; /* Font untuk coding */
+    font-size: 0.9rem;
+    transition: color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.skill-item:hover {
+    color: var(--accent-color);
+    box-shadow: 0 0 8px rgba(100, 255, 218, 0.2);
+}
+
 /* Portofolio */
 .filter-buttons {
     display: flex;
