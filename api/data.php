@@ -16,7 +16,7 @@ $personalInfo = [
 I actively engage in real-world projects and volunteer programs to sharpen my collaboration, adaptability, and problem-solving skills. Passionate about connecting technology and business, I aim to deliver impactful IT solutions and grow as a technology-driven problem solver.',
     'email' => 'michaelaemandop@gmail.com',
     'github' => 'https://github.com/michaelarmando',
-    'linkedin' => 'https://linkedin.com/in/michaelarmando',
+    'linkedin' => 'https://linkedin.com/in/michael-armando-putra',
 ];
 
 // Daftar proyek portofolio
