@@ -29,8 +29,8 @@ require_once 'data.php';
                 <h2>Portofolio Proyek</h2>
                 <div class="filter-buttons">
                     <button class="filter-btn active" data-filter="all">Semua</button>
-                    <button class="filter-btn" data-filter="web">Web</button>
-                    <button class="filter-btn" data-filter="mobile">Mobile</button>
+                    <button class="filter-btn" data-filter="project">Project</button>
+                    <button class="filter-btn" data-filter="certificate">Certificate</button>
                     <button class="filter-btn" data-filter="desain">Desain</button>
                     <button class="filter-btn" data-filter="education">Education</button>
                 </div>

@@ -37,22 +37,22 @@ $portfolioItems = [
         'link' => '#'
     ],
     [
-        'title' => 'BINUS University',
+        'title' => 'SMAK Penabur Harapan Indah',
         'category' => 'education',
-        'image' => 'https://via.placeholder.com/400x250/112240/64ffda?text=Proyek+Desain',
+        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_6895c42635/2025-09-19_47b7703c4d.jpg',
         'description' => 'Desain antarmuka pengguna (UI) untuk halaman promosi produk teknologi menggunakan Figma.',
         'link' => '#'
     ],
     [
-        'title' => 'Aplikasi Resep Makanan',
-        'category' => 'mobile',
-        'image' => 'https://via.placeholder.com/400x250/112240/64ffda?text=Proyek+Mobile',
+        'title' => 'BINUS University',
+        'category' => 'education',
+        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_c25637be7c/2025-09-19_06fe33cf1a.jpg',
         'description' => 'Prototipe aplikasi mobile untuk mencari dan menyimpan resep makanan favorit.',
         'link' => '#'
     ],
     [
         'title' => 'Website Company Profile',
-        'category' => 'web',
+        'category' => 'sertificate',
         'image' => 'https://via.placeholder.com/400x250/112240/64ffda?text=Proyek+Web+2',
         'description' => 'Website profil perusahaan modern yang dibangun dengan HTML, CSS, dan JavaScript murni.',
         'link' => '#'
