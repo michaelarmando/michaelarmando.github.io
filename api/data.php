@@ -9,7 +9,7 @@ $siteConfig = [
 // Informasi personal
 $personalInfo = [
     'name' => 'Michael Armando Putra',
-    'profile_picture' => '/image/pp.png', // Ganti dengan URL foto Anda
+    'profile_picture' => 'https://cdn.momoi.cc/uploads/2025-09-19_710e9d2dc3/2025-09-19_1e96459649.png', // Ganti dengan URL foto Anda
     'tagline' => '',
     'about' => 'Hi, I’m Michael Armando Putra, a fifth-semester Business Information Technology student at Bina Nusantara University. I am developing my career in technology and business strategy with experience in IS analysis and design, UI/UX, and data & business analysis.
 
