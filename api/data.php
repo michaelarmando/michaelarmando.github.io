@@ -41,7 +41,7 @@ $portfolioItems = [
         'category' => 'project',
         'image' => 'https://via.placeholder.com/400x250/112240/64ffda?text=Sewa+Alat',
         'description' => 'Aplikasi untuk manajemen penyewaan alat berat yang efisien dan terintegrasi.',
-        'link' => '#'
+        'link' => 'https://www.figma.com/design/t3CNdPImrR6VpNo4JAhu6w/-2--ToolHub-Group-4-BD80?node-id=0-1&t=OnlmSoi4SiZW9Slu-1'
     ],
     [
         'title' => 'ENGLISH INDEPENDENT USER',
