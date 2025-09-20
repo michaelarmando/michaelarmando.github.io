@@ -75,35 +75,35 @@ $portfolioItems = [
     [
         'title' => 'ENGLISH FOR CREATIVE WRITING',
         'category' => 'certificate',
-        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_32fb2bca81/2025-09-19_f9fb7d070f.pdf',
+        'image' => 'https://cdn.momoi.cc/uploads/2025-09-20_3b50f5dd26/2025-09-20_aa5aa0d2e3.jpg',
         'description' => 'Menyelesaikan program ENGLISH FOR CREATIVE WRITING Beelingua',
         'link' => '' 
     ],
     [
         'title' => 'ENGLISH FOR PROFESSIONAL OFFICE',
         'category' => 'certificate',
-        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_272a689d3f/2025-09-19_7321c5bc4c.pdf',
+        'image' => 'https://cdn.momoi.cc/uploads/2025-09-20_97ec2a73a8/2025-09-20_903297b117.jpg',
         'description' => 'Menyelesaikan program ENGLISH FOR PROFESSIONAL OFFICE Beelingua.',
         'link' => '' 
     ],
     [
         'title' => 'ADVANCED ENGLISH (CEFR C2.1)',
         'category' => 'certificate',
-        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_acc28f7888/2025-09-19_69ba410bc2.pdf',
+        'image' => 'https://cdn.momoi.cc/uploads/2025-09-20_df4398171f/2025-09-20_f68c9096ce.jpg',
         'description' => 'Menyelesaikan program ADVANCED ENGLISH (CEFR C2.1) Beelingua',
         'link' => '' 
     ],
     [
         'title' => 'MARKET RESEARCH & BUSINESS COMMUNICATION (CEFR C2.2)',
         'category' => 'certificate',
-        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_63a262698c/2025-09-19_507cfdae9e.pdf',
+        'image' => 'https://cdn.momoi.cc/uploads/2025-09-20_c03b943239/2025-09-20_e5d3d61fb9.jpg',
         'description' => 'Menyelesaikan program MARKET RESEARCH & BUSINESS COMMUNICATION (CEFR C2.2) Beelingua.',
         'link' => '' 
     ],
     [
         'title' => 'ENGLISH INDEPENDENT USER (CEFR B)',
         'category' => 'certificate',
-        'image' => 'https://cdn.momoi.cc/uploads/2025-09-19_9ae92bc9d9/2025-09-19_d0ba5e5db5.pdf',
+        'image' => 'https://cdn.momoi.cc/uploads/2025-09-20_b226309dd9/2025-09-20_7d979c0c50.jpg',
         'description' => 'ENGLISH INDEPENDENT USER (CEFR B) Beelingua.',
         'link' => '' 
     ],
