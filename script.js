@@ -9,9 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
             button.addEventListener('click', () => {
                 filterButtons.forEach(btn => btn.classList.remove('active'));
                 button.classList.add('active');
-
                 const filter = button.getAttribute('data-filter');
-
                 portfolioItems.forEach(item => {
                     const category = item.getAttribute('data-category');
                     if (filter === 'all' || filter === category) {
@@ -54,6 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 });
 
+// --- Logika untuk Efek Latar Belakang Mengikuti Kursor ---
 window.addEventListener('mousemove', e => {
     document.documentElement.style.setProperty('--x', e.clientX + 'px');
     document.documentElement.style.setProperty('--y', e.clientY + 'px');
