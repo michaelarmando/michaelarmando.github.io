@@ -1,5 +1,5 @@
 <?php
-// Memuat semua data dari file data.php
+
 require_once 'data.php';
 ?>
 <!DOCTYPE html>
