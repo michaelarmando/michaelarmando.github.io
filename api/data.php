@@ -33,7 +33,7 @@ $portfolioItems = [
     [
         'title' => 'Management KingsHCut',
         'category' => 'project',
-        'image' => 'https://cdn.momoi.cc/uploads/2025-09-20_ca423f76ad/2025-09-20_1c3023b8b6.png',
+        'image' => 'https://cdn.momoi.cc/uploads/2025-09-20_5307b7dd20/2025-09-20_431b363692.png',
         'description' => 'A Java and MySQL-based web application for managing barbershop inventory, sales, and financial reports.',
         'link' => '#'
     ],
